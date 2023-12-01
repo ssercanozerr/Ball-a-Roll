@@ -23,7 +23,6 @@ In this game, the goal is to collect the cubes around us.
 ---
 
 * Unity
-* Version 2019.4.16f1
   
 ### Screenshots
 
